@@ -17,8 +17,8 @@ I'm a software engineering major at San Jose State University and member @Softwa
 - [Quakesafe](https://github.com/mceballos123/QuakeSafe) - AI-powered mobile app for earthquake safety and awareness
 #
 # Technical Skills
-- Programming: Java, Python, JavaScript, TypeScript, C++, SQL
-- Frameworks: React, FastAPI, Express.js, NextJS, Spring Boot, 
+- Programming: Java, Python, JavaScript, TypeScript, C++, SQL, Golang
+- Frameworks: React, FastAPI, Express.js, NextJS, Spring Boot
 - Tools: Git, Postman, MongoDB, Docker, MySQL, PostgreSQL, SQLAlchemy, SQLite, Prometheus
 
 
