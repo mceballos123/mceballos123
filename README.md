@@ -7,7 +7,7 @@ I'm a software engineering major at San Jose State University and member @Softwa
 ## Experience
 - Software Engineering Intern @Fetch.ai
 - Research Assistant @SJSU
-- Development team member @SJSU SCE
+- Officer @SJSU SCE
 
 
 ## Projects
