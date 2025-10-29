@@ -12,9 +12,9 @@ I'm a software engineering major at San Jose State University and member @Softwa
 
 ## Projects
 - [HireSense](https://github.com/mceballos123/HireSense) – Hackathon winning AI-Agent debating system for recruiters
-- [Medscribe](https://github.com/mceballos123/MedScribe) – Hackathon winning AI-Agent platform to streamline medical professional workflow
-- [Gatorguard](https://github.com/mceballos123/GatorGuard) - Web monitoring browser extension for user productivity
-- [Quakesafe](https://github.com/mceballos123/QuakeSafe) - AI-powered mobile app for earthquake safety and awareness
+- [MedScribe](https://github.com/mceballos123/MedScribe) – Hackathon winning AI-Agent platform to streamline medical professional workflow
+- [GatorGuard](https://github.com/mceballos123/GatorGuard) - Web monitoring browser extension for user productivity
+- [QuakeSafe](https://github.com/mceballos123/QuakeSafe) - AI-powered mobile app for earthquake safety and awareness
 #
 # Technical Skills
 - Programming: Java, Python, JavaScript, TypeScript, C++, SQL, Golang
