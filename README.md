@@ -1,7 +1,7 @@
 ## Hi, I'm Martin 🤺👾
 
 
-I'm a software engineering major at San Jose State University and member @Software and Computer Engineering Society(SCE) and Society of Latino Engineers and Scientists (SOLES)
+SWE @San Jose State University and member @Software and Computer Engineering Society(SCE) and @Society of Latino Engineers and Scientists (SOLES)
 
 
 ## Experience
