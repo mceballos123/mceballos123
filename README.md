@@ -1,7 +1,7 @@
 ## Hi, I'm Martin 🤺👾
 
 
-SWE @SJSU and Officer @Software and Computer Engineering Society(SCE) and @Society of Latino Engineers and Scientists (SOLES)
+SWE @SJSU and Officer @Software and Computer Engineering Society(SCE) and club member @Society of Latino Engineers and Scientists (SOLES)
 
 
 ## Experience
