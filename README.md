@@ -1,4 +1,4 @@
-## Hi, I'm Martin 🤺👾
+## Hi, I'm Martin Angel Ceballos 🤺👾
 
 
 SWE @SJSU and Officer @Software and Computer Engineering Society(SCE) and club member @Society of Latino Engineers and Scientists (SOLES)
