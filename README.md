@@ -13,9 +13,9 @@ SWE @SJSU, Officer @Software and Computer Engineering Society(SCE), and member @
 ## Projects
 - [HireSense](https://github.com/mceballos123/HireSense) – Hackathon-winning Multi-Agent debating system for recruiters
 - [MedScribe](https://github.com/mceballos123/MedScribe) – Hackathon-winning AI-Agent platform to streamline medical professional workflow
+- [Hiromi](https://github.com/mceballos123/Hiromi) - Multi-Agent systems that streamlines the retrial process for wrongly convicted convicts
 - [GatorGuard](https://github.com/mceballos123/GatorGuard) - Web monitoring browser extension for user productivity
 - [QuakeSafe](https://github.com/mceballos123/QuakeSafe) - AI-powered mobile app for earthquake safety and awareness
-- [Hiromi](https://github.com/mceballos123/Hiromi) - Multi-Agent systems that streamlines the retrial process for wrongly convicted convicts
 #
 # Technical Skills
 - Programming: Java, Python, JavaScript, TypeScript, C++, SQL, Golang
