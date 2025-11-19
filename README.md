@@ -5,7 +5,7 @@ SWE @SJSU, Officer @Software and Computer Engineering Society(SCE), and member @
 
 
 ## Experience
-- Software Engineering Intern @Fetch.ai
+- SWE Intern @Fetch.ai
 - Research Assistant @SJSU
 - Officer @SJSU SCE
 
