@@ -20,7 +20,7 @@ SWE @SJSU, Officer @Software and Computer Engineering Society(SCE), and member @
 # Technical Skills
 - Programming: Java, Python, JavaScript, TypeScript, C++, SQL, Golang
 - Frameworks: React, FastAPI, Express.js, NextJS, Spring Boot
-- Tools: Git, Postman, MongoDB, Docker, MySQL, PostgreSQL, SQLAlchemy, SQLite, Prometheus
+- Tools: Git, Kubernetes, Postman, MongoDB, Docker, MySQL, PostgreSQL, SQLAlchemy, SQLite, Prometheus
 
 
 ## Contact Me
